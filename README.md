@@ -130,6 +130,7 @@ Functional, regression and integration testing on a nationwide ticket-booking pl
 ## Education
 
 **MSc Global Software Development** — Fulda University of Applied Sciences, Germany · 2024 – Present
+
 **BSc Computer Science** — Muhammad Ali Jinnah University, Pakistan · 2019 – 2023
 
 ---
