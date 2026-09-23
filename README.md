@@ -1,6 +1,6 @@
 # Hammad Asif
 
-**Software Developer & QA Automation Engineer** · MSc student, Global Software Development @ Hochschule Fulda
+**Software Developer & QA Automation Engineer** · MSc student, Global Software Development @ Fulda University of Applied Sciences
 
 [![Email](https://img.shields.io/badge/Email-hmmd97%40gmail.com-2E7D5B?style=flat-square)](mailto:hmmd97@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hammad--asif-2E7D5B?style=flat-square)](https://linkedin.com/in/hammad-asif-26466a91)
@@ -13,9 +13,11 @@ Portfolio: **[hammadasif-997.github.io](https://hammadasif-997.github.io)**
 
 ## About
 
-I test software and I build it — both halves, not one with the other as a side note. I design and automate test suites for web and distributed applications, and I write the applications themselves: React front ends, Node.js and Spring Boot back ends, the occasional Python script that saves an afternoon of manual work.
+I'm a Master's student in Global Software Development at Fulda University of Applied Sciences, and I work both sides of the same problem: **making software and breaking it on purpose**.
 
-Currently pursuing a Master's in Global Software Development at Hochschule Fulda, and open to a **Werkstudent** or **full-time** role in Germany in either software development or QA automation — or ideally, one that uses both.
+On the QA side, that's UI automation with **Selenium** and **Playwright**, API testing with **RestAssured** and **Postman**, and load testing with **JMeter** — the different ways an application quietly fails before a user finds it first. On the development side, I build the applications themselves: **React** front ends, **Node.js** and **Spring Boot** back ends, and the occasional Python script that saves an afternoon of manual work.
+
+Looking for a **Werkstudent** or **full-time** role in Germany in software development or QA automation — or ideally, one that uses both.
 
 ---
 
@@ -127,8 +129,7 @@ Functional, regression and integration testing on a nationwide ticket-booking pl
 
 ## Education
 
-**MSc Global Software Development** — Hochschule Fulda, Germany · 2024 – Present
-
+**MSc Global Software Development** — Fulda University of Applied Sciences, Germany · 2024 – Present
 **BSc Computer Science** — Muhammad Ali Jinnah University, Pakistan · 2019 – 2023
 
 ---
