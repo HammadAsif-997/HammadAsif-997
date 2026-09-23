@@ -1,6 +1,6 @@
 # Hammad Asif
 
-**QA Automation Engineer & Software Developer** · MSc student, Global Software Development @ Hochschule Fulda
+**Software Developer & QA Automation Engineer** · MSc student, Global Software Development @ Hochschule Fulda
 
 [![Email](https://img.shields.io/badge/Email-hmmd97%40gmail.com-2E7D5B?style=flat-square)](mailto:hmmd97@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hammad--asif-2E7D5B?style=flat-square)](https://linkedin.com/in/hammad-asif-26466a91)
@@ -13,9 +13,9 @@ Portfolio: **[hammadasif-997.github.io](https://hammadasif-997.github.io)**
 
 ## About
 
-I'm a QA Automation Engineer with 2+ years of professional experience testing high-performance web and distributed applications — designing test cases, automating them, and tracking down the ones that fail for reasons nobody expected.
+I test software and I build it — both halves, not one with the other as a side note. I design and automate test suites for web and distributed applications, and I write the applications themselves: React front ends, Node.js and Spring Boot back ends, the occasional Python script that saves an afternoon of manual work.
 
-Alongside that I write software: React front ends, Node.js and Spring Boot back ends, and the odd Python script that saves an afternoon of manual work. Currently pursuing a Master's in Global Software Development at Hochschule Fulda, and open to a **Werkstudent** or **full-time** role in Germany where both halves of that are useful.
+Currently pursuing a Master's in Global Software Development at Hochschule Fulda, and open to a **Werkstudent** or **full-time** role in Germany in either software development or QA automation — or ideally, one that uses both.
 
 ---
 
@@ -129,12 +129,6 @@ Functional, regression and integration testing on a nationwide ticket-booking pl
 
 **MSc Global Software Development** — Hochschule Fulda, Germany · 2024 – Present
 **BSc Computer Science** — Muhammad Ali Jinnah University, Pakistan · 2019 – 2023
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=HammadAsif-997&show_icons=true&hide_title=true&count_private=true&border_radius=8&title_color=2E7D5B&icon_color=2E7D5B&text_color=1A2421&bg_color=EEF1F0" width="420" alt="GitHub stats">
 
 ---
 
