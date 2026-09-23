@@ -65,23 +65,24 @@ Full CRUD coverage over a public REST API with Hamcrest assertions on status cod
 `RestAssured` `Java` `TestNG` `Maven`
 **[Repository →](https://github.com/HammadAsif-997/RestAssurePractice)** · **[Test report →](https://hammadasif-997.github.io/RestAssurePractice/reports/index.html)**
 
-<details>
-<summary><strong>Other projects (client / coursework — code not published)</strong></summary>
-<br>
-
-**Test Blaze — E-Commerce QA Suite**
+### Test Blaze — E-Commerce QA Suite
 UI and API test coverage for an e-commerce application, combining Selenium, RestAssured, Postman and JMeter for functional and load testing.
 `Selenium` `RestAssured` `Postman` `JMeter` `TestRail` `Jira`
+*Client project — code not published*
 
-**OrangeHRM QA Framework** · `+30% test efficiency`
+---
+
+### OrangeHRM QA Framework `+30% test efficiency`
 End-to-end QA framework for hardware/software integration testing against the OrangeHRM platform. Test documentation in Gherkin, defect tracking and reporting across modules.
 `C#` `SpecFlow` `.NET` `BDD`
+*Coursework project — code not published*
 
-**Pharmaceutical Inventory Management System**
+---
+
+### Pharmaceutical Inventory Management System
 Full inventory management system for a pharmaceutical company — stock tracking, supplier management, user roles/permissions, real-time stock updates, an invoicing module with automated calculations, and a reporting module.
 `CodeIgniter (PHP)` `MySQL`
-
-</details>
+*Client project — code not published*
 
 ---
 
