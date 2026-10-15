@@ -21,6 +21,16 @@ Looking for a **Werkstudent** or **full-time** role in Germany in software devel
 
 ---
 
+## Education
+
+**MSc Global Software Development** — Fulda University of Applied Sciences, Germany · 2024 – Present
+
+**BSc Computer Science** — Muhammad Ali Jinnah University, Pakistan · 2019 – 2023
+
+**Advanced Diploma in Software Engineering** — Aptech Pakistan  |  Jan 2016 – Sep 2019
+
+---
+
 ## Featured Projects
 
 ### Swoplet — Fulda University Marketplace `Team Lead`
@@ -144,14 +154,6 @@ Worked on a nationwide cinema/event ticket-booking platform — bug fixes and mi
 ![Python](https://img.shields.io/badge/-Python-1A2421?style=flat-square)
 ![pandas](https://img.shields.io/badge/-pandas-1A2421?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-1A2421?style=flat-square)
-
----
-
-## Education
-
-**MSc Global Software Development** — Fulda University of Applied Sciences, Germany · 2024 – Present
-
-**BSc Computer Science** — Muhammad Ali Jinnah University, Pakistan · 2019 – 2023
 
 ---
 
