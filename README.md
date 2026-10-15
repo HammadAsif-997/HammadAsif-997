@@ -88,14 +88,11 @@ Full inventory management system for a pharmaceutical company — stock tracking
 
 ## Experience
 
-**Software QA Engineer & Developer — VentureDive** · Jan 2023 – Sep 2024
+**Software Quality Assurance Engineer Intern — VentureDive** · Mar 2024 – Aug 2024
 Combined QA and development role across AI-based and FinTech client products. Contributed to feature development early on (REST API endpoints, data-processing logic) before the role shifted mostly to QA. Automated 80% of API tests with RestAssured/Postman, wired suites into CI/CD via Jenkins. Built UI automation with Selenium (C#), Playwright and Cypress, cutting manual testing effort by 50%. Ran load and performance tests with JMeter.
 
-**Junior Developer & Quality Control — Etech Maestro** · Jul 2017 – Jul 2019
+**Web Developer & Designer — Etech Maestro** · Aug 2017 – Dec 2018
 Worked on a nationwide cinema/event ticket-booking platform — bug fixes and minor features across booking flow, admin backoffice and notifications. Built a separate ticketing system for PortGrand (Karachi entertainment venue). Designed several WordPress sites. Took on QC alongside development — manual testing of fixes and features before release.
-
-**Software Developer — Etech Maestro (Internship)** · Jan 2017 – Jul 2017
-Entry-level internship — learned the company's development workflow, coding practices and team communication.
 
 ---
 
